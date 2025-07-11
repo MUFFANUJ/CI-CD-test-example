@@ -10,7 +10,7 @@ function App() {
         <p>Click the buttons below to interact:</p>
 
         <button>Click Me</button>
-        <button>Submiting</button>
+        <button>Submit</button>
         <button>Cancel</button>
     <button>ok</button>
     
