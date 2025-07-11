@@ -12,8 +12,6 @@ function App() {
         <button>Click Me</button>
         <button>Submit</button>
         <button>Cancel</button>
-    <button>ok</button>
-    
       </div>
     </div>
   );
