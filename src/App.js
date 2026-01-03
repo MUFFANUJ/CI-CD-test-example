@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div>
-        <h1>Welcome to My App</h1>
+        <h1>Welcome </h1>
         <p>This is a simple React component with buttons.</p>
         <p>Click the buttons below to interact:</p>
 
